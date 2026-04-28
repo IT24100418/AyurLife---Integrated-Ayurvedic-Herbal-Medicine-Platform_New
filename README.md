@@ -76,7 +76,7 @@ AyurLife is developed as a solution to overcome these limitations.
 - Punsarani A.P.G.U (IT24103070)  
 - Liyanage S.N (IT24200741)  
 - Vihanga M A P (IT24100418)  
-- Kurukulasuriya K.N.H (IT24100576)    
+- Kurukulasuriya K.N.H (IT24103318)    
 
 ---
 
